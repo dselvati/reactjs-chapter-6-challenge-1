@@ -84,4 +84,4 @@ export const getStaticProps: GetStaticProps = async () => {
     revalidate: 60 * 60 * 24 // 24 hours - Tempo em segundos para a página ser reconstruida
   }
 }
-//t
+//te
